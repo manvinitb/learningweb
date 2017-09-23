@@ -1,0 +1,29 @@
+{
+  "name": "learningweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manvinitb/learningweb.git"
+  },
+  "author": "Manvi Mukharya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manvinitb/learningweb/issues"
+  },
+  "homepage": "https://github.com/manvinitb/learningweb#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mysql": "^2.14.1",
+    "passport": "^0.4.0",
+    "q": "^1.5.0",
+    "redis": "^2.8.0"
+  }
+}
